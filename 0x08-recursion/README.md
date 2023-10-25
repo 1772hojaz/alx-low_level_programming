@@ -1,0 +1,1 @@
+Recursion in C is a programming technique where a function calls itself as a part of its own execution. This allows you to solve problems that can be broken down into smaller, similar sub-problems. Recursion can be a powerful and elegant way to solve certain types of problems, particularly those that have a recursive or self-referential structure.
