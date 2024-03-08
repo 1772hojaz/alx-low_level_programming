@@ -3,6 +3,7 @@
 
 int main(void)
 {
+	/* this is the main function*/
 	char m;
 
 	for (m = 'a'; m <= 'z'; m++)
