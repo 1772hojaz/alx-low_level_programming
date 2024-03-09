@@ -3,8 +3,15 @@
  * this program prints the alphabet in lowercase and upper case
  * followed by a new line
  */
+
 int main(void)
 {
+	/**
+	 * main - Entry point
+	 * -----------------
+	 *  Return: Always 0 (success)
+	 */
+
 	char x;
 	char y;
 
