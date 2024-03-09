@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* This program determines if a randomly generated 
+
+/** This program determines if a randomly generated 
  * number is positive or negative
  */
 int main(void)
