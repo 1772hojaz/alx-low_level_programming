@@ -1,7 +1,10 @@
 #include <stdio.h>
+
 /**
- * this program prints the alphabet in lowercase and upper case
- * followed by a new line
+ * Program: 3-print_alphabets.c
+ *
+ * Description:
+ *   This program prints the alphabet in lowercase and uppercase followed by a new line.
  */
 
 int main(void)
