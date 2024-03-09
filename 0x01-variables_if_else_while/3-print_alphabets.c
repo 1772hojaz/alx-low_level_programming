@@ -4,17 +4,11 @@
  * Program: 3-print_alphabets.c
  *
  * Description:
- *   This program prints the alphabet in lowercase and uppercase followed by a new line.
+ * This program prints the alphabet in
+ * lowercase and uppercase followed by a new line.
  */
-
 int main(void)
 {
-	/**
-	 * main - Entry point
-	 * -----------------
-	 *  Return: Always 0 (success)
-	 */
-
 	char x;
 	char y;
 
