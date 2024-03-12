@@ -1,6 +1,7 @@
 #include <stdlib.h>
 /**
- * main - Entry point
+ * _abs - Entry point
+ * @a : first parametre
  *
  * Return: Always 0 (Success)
  */
