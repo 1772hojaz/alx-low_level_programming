@@ -2,10 +2,6 @@
 #include <unistd.h>
 /**
  * jack_bauer - Entry point
- * @r: last parameter
- * @x: first parameter
- * @y: second parameter
- * @z: third parameter
  *
  * Return: Always 0 (Success)
  */
