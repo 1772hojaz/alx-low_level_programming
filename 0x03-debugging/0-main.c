@@ -2,8 +2,7 @@
 /**
  * main - Entry point
  *
- * @i - the input
- * Retur: return 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
