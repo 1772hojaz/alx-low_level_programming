@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * rest_to_98 - Entry point
+ * reset_to_98 - Entry point
  *
  * @n: is the pointer to the function
  *
