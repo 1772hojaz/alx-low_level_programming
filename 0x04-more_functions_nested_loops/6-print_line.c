@@ -12,7 +12,6 @@ void print_line(int n)
 	
 	if (n <= 0)
 	{
-		_putchar('$');
 		_putchar('\n');
 	}
 	else
@@ -21,7 +20,6 @@ void print_line(int n)
 		{
 			_putchar('_');
 		}
-		_putchar('$');
 		_putchar('\n');
 	}
 }
