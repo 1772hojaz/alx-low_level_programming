@@ -4,7 +4,7 @@
 /**
  * _puts - prints a string and a newline
  * @*str: a pointer to the string
- * @s: the string
+ * @str: the string
  *
  * Returns: Nothing
  */
