@@ -1,15 +1,22 @@
-#include <stdio.h>
+#include "main.h"
+
 /**
- * swap_int - main entry
- * @a : is the first pointer
- * @b : is the second pointer
+ * swap_int - swaps the values of 2 intergers
+ * @*a: first integer parameter
+ * @*b: second interger parameter
  *
- * Return : Always 0 (Success)
+ * Return: void (0)
  */
-void swap_int(int *a, int  *b);
+
 void swap_int(int *a, int *b)
 {
-	int temp = *a;
-	*a = *b;
-	*b = temp;
+	int tempa;
+	int tempb;
+
+
+	tempa = *a;
+	tempb = *b;
+
+	*a = tempa;
+	*b = tempb;
 }
