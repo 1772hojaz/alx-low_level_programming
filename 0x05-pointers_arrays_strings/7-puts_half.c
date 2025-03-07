@@ -22,11 +22,11 @@ void puts_half(char *str)
 		x++;
 	}
 
-	y = x / 2;
+	y = (x - 1) / 2;
 
 	for (z = 0; z <= x - 1 ; z++)
 	{
-		if (z >= y)
+		if (z > y)
 		{
 			_putchar(str[z]);
 		}
