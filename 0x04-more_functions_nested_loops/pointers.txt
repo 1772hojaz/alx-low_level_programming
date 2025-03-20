@@ -1,0 +1,23 @@
+**Types and memory**
+
+char - 1 byte
+int - 4 bytes
+float - 4 byte
+
+
+# the size of a type determines how many values a variable of the type hold
+
+when we declare a variable, the computer will reserve the right amout of space for the variable in the memory(depending on the type) .
+
+The space reserved for the variable is its address
+
+
+char c ;
+here i have just declared the variable c of type char
+
+when a value is assigned to our variable, then it is store to the variable's address. thus it is stored at char c address
+so the ascii value will be  stored in c's address not literaly the letter eg 'H', 'S'
+
+so chars are onlys stored as 1 byte
+
+and int is 4 bytes thus 32bits (8X4)
